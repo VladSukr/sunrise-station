@@ -708,6 +708,9 @@ FoodDonutJellySlugcat: FoodDonutJellyScurret
 ClothingUniformJumpsuitChiefEngineerNT: ClothingUniformJumpsuitChiefEngineer
 ClothingUniformJumpsuitParamedicNT: ClothingUniformJumpsuitParamedic
 
+# 2025-09-13
+LockerRepresentative: LockerRepresentativeFilled
+
 # Sunrise-Start
 AirlockExternalGlassShuttleArrivals: AirlockExternalGlassShuttleArrivalsLocked
 AirlockHatchSyndicate: AirlockHatchSyndicateLocked

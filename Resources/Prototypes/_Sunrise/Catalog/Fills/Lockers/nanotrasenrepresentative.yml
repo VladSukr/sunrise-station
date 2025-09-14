@@ -1,0 +1,10 @@
+- type: entity
+  id: LockerRepresentativeFilled
+  name: representative locker filled
+  suffix: Filled
+  parent: LockerRepresentative
+  components:
+  - type: StorageFill
+    contents:
+      - id: CaneNT
+      - id: HandheldFax
