@@ -27,6 +27,7 @@
     #MultiphaseEnergygunStealObjective: 1 # Sunrise-Edit: ОСЩ больше не появляется на станции
     CMOAdvancedDefibrillatorStealObjective: 1
     HandheldFaxStealObjective: 1
+    CaneNTStealObjective: 1
     # Sunrise-End
 
 - type: weightedRandom

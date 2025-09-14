@@ -70,3 +70,8 @@
   - type: DrawableSolution
     solution: battery
   - type: EmpImmune
+  - type: Tag
+    tags:
+    - HighRiskItem
+  - type: StealTarget
+    stealGroup: CaneNT

@@ -44,3 +44,15 @@
   - type: StealCondition
     stealGroup: HandheldFax
     owner: job-name-ntrep
+
+- type: entity
+  parent: BaseTraitorStealObjective
+  id: CaneNTStealObjective
+  components:
+  - type: Objective
+    difficulty: 1.5
+  - type: NotJobRequirement
+    job: NanoTrasenRepresentative
+  - type: StealCondition
+    stealGroup: CaneNT
+    owner: job-name-ntrep

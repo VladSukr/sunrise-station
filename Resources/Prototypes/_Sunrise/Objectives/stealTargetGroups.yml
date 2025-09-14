@@ -25,3 +25,10 @@
   sprite:
     sprite: _Sunrise/Objects/Devices/handled_fax.rsi
     state: icon
+
+- type: stealTargetGroup
+  id: CaneNT
+  name: objective-condition-steal-cane-nt #cane nt
+  sprite:
+    sprite: _Sunrise/Objects/Weapons/Melee/cane-nt.rsi
+    state: cane-nt
